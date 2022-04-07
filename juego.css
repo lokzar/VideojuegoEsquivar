@@ -1,0 +1,67 @@
+#start-button{
+    width: 100px;
+    height: 50px;
+    
+    color: white;
+    background:none;
+}
+header{
+    margin: 20px;
+    text-align: right;
+}
+
+.regresar{
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.about{
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+}
+.titulo{
+    position: relative;
+    width: 720px;
+}
+.tituloabout{
+    width: 500px;
+    margin: 50px;
+}
+
+
+#bodyIntro{
+    background-color: rgb(43, 43, 43);
+    padding: 0;
+    margin: 0;
+    overflow:hidden;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+}
+
+#bodyAbout{
+    background-color: rgb(43, 43, 43);
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+}
+
+#bodyAbout h1{
+    margin-bottom: 60px;
+}
+
+p{
+    margin: 60px;
+}
+
+#canvas{
+    position: relative;
+    padding: 0;
+    width: 704px;
+    height: 396px;
+    margin-top: 0px;
+    
+transform: scale(1) translateY(25%);
+}
